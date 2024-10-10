@@ -10,8 +10,7 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[
-
-- Jefe de mantenimiento: Encargado de decidir si se usa objeto bajo llave, posee la llave.
+Encargado de decidir si se usa objeto bajo llave, posee la llave.
 
 ]]></markdownProperty>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
