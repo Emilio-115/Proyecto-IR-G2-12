@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5WJX6PuRfLmM" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Entorno hardware actual]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[El círculo ni cuenta ni ha contado con equipos informáticos para la gestión del inventario. Cabe recalcar, que ni siquiera todos los empleados tienen ordenadores, en su mayoría estos despeñan labores administrativas.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

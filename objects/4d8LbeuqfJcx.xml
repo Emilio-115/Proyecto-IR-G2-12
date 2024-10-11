@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4d8LbeuqfJcx" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Introducción]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Estos últimos años, el círculo ha estado intentando modernizarse con nuevas tecnologías. Si bien, han logrado llevar a cabo mejoras significativas en varios ámbitos, la gestión de inventario no es uno de ellos.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
