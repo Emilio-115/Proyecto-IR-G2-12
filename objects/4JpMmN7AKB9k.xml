@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Actualmente el circulo cuenta con alrededor de 50 empleados, repartidos entre 5 departamentos. Ademas hay una junta directiva conformada por 12 socios elegidos por votación cada 4 años, siendo elegido un presidente entre ellos.  
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente el círculo cuenta con alrededor de 50 empleados, repartidos entre 5 departamentos. Además, hay una junta directiva conformada por 12 socios elegidos por votación cada 4 años, siendo elegido un presidente entre ellos.  
 
 Los departamentos son: ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
