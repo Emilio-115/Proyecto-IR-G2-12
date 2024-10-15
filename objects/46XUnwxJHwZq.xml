@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- Registro de los objetos que se poseen.
+    <markdownProperty name="text" category="detail"><![CDATA[- Tener registro de los objetos que se poseen.
 - Control de prestamos, quién y qué se lleva mediante la firma de un albarán.
 - Transferencia de objetos de un departamento a otro.
 - Controlar que se mantenga el stock de seguridad con ayuda de alertas. ]]></markdownProperty>
