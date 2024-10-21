@@ -4,6 +4,13 @@
     <bpmn:participant id="Participant_06rz6od" name="Retirada de un objeto" processRef="Process_1vhganj" />
   </bpmn:collaboration>
   <bpmn:process id="Process_1vhganj" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_0jvbcnl">
+      <bpmn:lane id="Lane_1dpa0v9" name="Empleado">
+        <bpmn:flowNodeRef>StartEvent_1c0h8ax</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_1k3ycg8</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_1kdgegd</bpmn:flowNodeRef>
+      </bpmn:lane>
+    </bpmn:laneSet>
     <bpmn:startEvent id="StartEvent_1c0h8ax" name="Objeto se deteriora">
       <bpmn:outgoing>Flow_0squrie</bpmn:outgoing>
     </bpmn:startEvent>
@@ -20,7 +27,11 @@
   <bpmndi:BPMNDiagram id="BPMNDiagram_1">
     <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_0ypjgq8">
       <bpmndi:BPMNShape id="Participant_06rz6od_di" bpmnElement="Participant_06rz6od" isHorizontal="true">
-        <dc:Bounds x="152" y="82" width="408" height="250" />
+        <dc:Bounds x="152" y="90" width="408" height="242" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1dpa0v9_di" bpmnElement="Lane_1dpa0v9" isHorizontal="true">
+        <dc:Bounds x="182" y="90" width="378" height="242" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_1c0h8ax">
