@@ -14,7 +14,7 @@
         <bpmn:flowNodeRef>Event_1yqx18u</bpmn:flowNodeRef>
       </bpmn:lane>
     </bpmn:laneSet>
-    <bpmn:startEvent id="StartEvent_1rzx4bt">
+    <bpmn:startEvent id="StartEvent_1rzx4bt" name="Se recibe un pedido">
       <bpmn:outgoing>Flow_12ojd90</bpmn:outgoing>
     </bpmn:startEvent>
     <bpmn:task id="Activity_0boqtj5" name="Recepción de la entrega">
@@ -69,6 +69,9 @@
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_1rzx4bt">
         <dc:Bounds x="282" y="232" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="269" y="275" width="62" height="27" />
+        </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_0boqtj5_di" bpmnElement="Activity_0boqtj5">
         <dc:Bounds x="370" y="210" width="100" height="80" />

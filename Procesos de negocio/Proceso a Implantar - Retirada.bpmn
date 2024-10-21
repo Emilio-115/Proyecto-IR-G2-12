@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_1y6zmei" targetNamespace="http://bpmn.io/schema/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="17.11.1">
+  <bpmn:collaboration id="Collaboration_0ypjgq8">
+    <bpmn:participant id="Participant_06rz6od" name="Retirada de un objeto" processRef="Process_1vhganj" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_1vhganj" isExecutable="false">
+    <bpmn:startEvent id="StartEvent_1c0h8ax" name="Objeto se deteriora">
+      <bpmn:outgoing>Flow_1h62k2i</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:subProcess id="Activity_04pi7tk" name="Salida del almacén">
+      <bpmn:incoming>Flow_1h62k2i</bpmn:incoming>
+      <bpmn:outgoing>Flow_0nds8qs</bpmn:outgoing>
+      <bpmn:startEvent id="Event_1qdulwh" />
+    </bpmn:subProcess>
+    <bpmn:task id="Activity_1k3ycg8" name="Tirar a la basura">
+      <bpmn:incoming>Flow_0nds8qs</bpmn:incoming>
+      <bpmn:outgoing>Flow_1qhj2kw</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_1h62k2i" sourceRef="StartEvent_1c0h8ax" targetRef="Activity_04pi7tk" />
+    <bpmn:sequenceFlow id="Flow_0nds8qs" sourceRef="Activity_04pi7tk" targetRef="Activity_1k3ycg8" />
+    <bpmn:sequenceFlow id="Flow_1qhj2kw" sourceRef="Activity_1k3ycg8" targetRef="Event_1kdgegd" />
+    <bpmn:endEvent id="Event_1kdgegd">
+      <bpmn:incoming>Flow_1qhj2kw</bpmn:incoming>
+    </bpmn:endEvent>
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_0ypjgq8">
+      <bpmndi:BPMNShape id="Participant_06rz6od_di" bpmnElement="Participant_06rz6od" isHorizontal="true">
+        <dc:Bounds x="152" y="82" width="718" height="348" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_1c0h8ax">
+        <dc:Bounds x="232" y="232" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="226" y="275" width="48" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1k3ycg8_di" bpmnElement="Activity_1k3ycg8">
+        <dc:Bounds x="550" y="210" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1kdgegd_di" bpmnElement="Event_1kdgegd">
+        <dc:Bounds x="742" y="232" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1wkiuvj_di" bpmnElement="Activity_04pi7tk" isExpanded="false">
+        <dc:Bounds x="340" y="210" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_1h62k2i_di" bpmnElement="Flow_1h62k2i">
+        <di:waypoint x="268" y="250" />
+        <di:waypoint x="340" y="250" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0nds8qs_di" bpmnElement="Flow_0nds8qs">
+        <di:waypoint x="440" y="250" />
+        <di:waypoint x="550" y="250" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1qhj2kw_di" bpmnElement="Flow_1qhj2kw">
+        <di:waypoint x="650" y="250" />
+        <di:waypoint x="742" y="250" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1usrt5u">
+    <bpmndi:BPMNPlane id="BPMNPlane_03ksvrb" bpmnElement="Activity_04pi7tk">
+      <bpmndi:BPMNShape id="Event_1qdulwh_di" bpmnElement="Event_1qdulwh">
+        <dc:Bounds x="180" y="160" width="36" height="36" />
+      </bpmndi:BPMNShape>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>
