@@ -7,7 +7,10 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Al no haber registro de la localización de los objetos, se pierde mucho tiempo buscándolos.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[
+Debido a la falta de registro, a la hora de localizar un objeto se pierde muchísimo tiempo tratando de encontrarlo si es que se llega a encontrar.
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

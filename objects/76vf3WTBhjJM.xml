@@ -7,7 +7,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[La ausencia de gestión lleva a situaciones en las que se compran artículos en stock por desconocimiento de su tenencia.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Debido a la ausencia de gestión del inventario,  lleva a situaciones en las que se compra de forma innecesaria artículos que ya se encontraban en stock por falta de conocimiento de su tenencia.
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

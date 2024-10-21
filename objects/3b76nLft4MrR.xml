@@ -7,7 +7,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[En la empresa ha habido algunos casos de articulos desaparecidos, es muy dificil trazar a los responsables]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[En la organización han llegado a suceder casos de material o articulos desaparecidos sin dejar registro, siendo realmente dificil llevar un seguimiento de quien fue la ultima persona en usarlo.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
