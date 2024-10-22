@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Muy a menudo, es necesario que objetos entren y salgan de los almacenes, temporal o permanentemente. Ya sea para reemplazar una bombilla que se rompió (un consumible), para que un empleado de mantenimiento pueda usar un taladro (un préstamo), para recibir la entrega de objetos comprados (un registro), para tirar objetos rotos (un retiro), para mover objetos de un almacén a otro (una transferencia). ]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Ya sea para reemplazar una bombilla que se rompió (la salida de un consumible), para que un empleado de mantenimiento pueda usar un taladro (un préstamo), para recibir la entrega de objetos comprados (un registro), para tirar objetos rotos (un retiro) o para mover objetos de un almacén a otro (una transferencia), todos los usos que la empresa da al almacén involucran la entrada o salida, temporal o permanente, de un objeto. Actualmente, no se registra ninguno de los dos movimientos, ni quién los realizó.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
