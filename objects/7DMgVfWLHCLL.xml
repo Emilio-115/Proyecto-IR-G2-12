@@ -2,14 +2,14 @@
 <object id="7DMgVfWLHCLL" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>004</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Préstamo de objeto del almacén]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Préstamo de objeto]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Es el proceso que se seguirá cuando un empleado necesite utilizar temporalmente algun objeto del Círculo.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Proceso a través del cuál un empleado pide un objeto del inventario que necesita temporalmente.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">high</enumProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagram (8).svg]]></fileProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Proceso a Implantar- Préstamo.svg]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
