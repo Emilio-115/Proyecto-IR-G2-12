@@ -20,7 +20,7 @@
       <bpmn:outgoing>Flow_0nds8qs</bpmn:outgoing>
       <bpmn:startEvent id="Event_1qdulwh" />
     </bpmn:subProcess>
-    <bpmn:task id="Activity_1k3ycg8" name="Tirar a la basura">
+    <bpmn:task id="Activity_1k3ycg8" name="Desechar el objeto">
       <bpmn:incoming>Flow_0nds8qs</bpmn:incoming>
       <bpmn:outgoing>Flow_1qhj2kw</bpmn:outgoing>
     </bpmn:task>
