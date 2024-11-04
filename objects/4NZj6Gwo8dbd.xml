@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El Círculo tiene un inventario. Este yace almacenado en múltiples almacenes repartidos entre ambas sedes de la organización. Es importante mantener un registro actualizado y correcto del inventario del Círculo tanto para facilitar la realización de actividades y el mantenimiento, para evitar robos y para hacer reportes anuales de contabilidad.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[El Círculo tiene en su posesión varios objetos. Tiene ordenadores, bombillas, herramientas, pintura, madera, lonas, vestimenta, equipo deportivo, etc. Estos objetos son el inventario del Círculo. Los objetos del inventario se encuentran o en uso o almacenados en múltiples almacenes repartidos entre ambas sedes de la organización.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
