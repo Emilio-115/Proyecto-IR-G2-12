@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="sid-38422fae-e03e-43a3-bef4-bd33b32041b2" targetNamespace="http://bpmn.io/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="17.11.1">
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="sid-38422fae-e03e-43a3-bef4-bd33b32041b2" targetNamespace="http://bpmn.io/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="18.0.0">
   <collaboration id="Collaboration_1j6kdbz">
     <participant id="Participant_01wt6lm" name="Salida de un objeto del almacén" processRef="Process_1" />
   </collaboration>
   <process id="Process_1" isExecutable="false">
     <laneSet id="LaneSet_0zp0zx8">
       <lane id="Lane_1kkl15u" name="Empleado">
-        <flowNodeRef>Activity_0673ig5</flowNodeRef>
         <flowNodeRef>Event_1nj8ghl</flowNodeRef>
         <flowNodeRef>Activity_1ksya7c</flowNodeRef>
         <flowNodeRef>Event_0619vtq</flowNodeRef>
@@ -25,11 +24,7 @@
         <flowNodeRef>Activity_08zek9j</flowNodeRef>
       </lane>
     </laneSet>
-    <task id="Activity_0673ig5" name="Solicitar sacar objeto">
-      <incoming>Flow_04jq0rb</incoming>
-      <outgoing>Flow_1xeqmdv</outgoing>
-    </task>
-    <startEvent id="Event_1nj8ghl" name="Hay objeto que almacenar">
+    <startEvent id="Event_1nj8ghl" name="Solicita sacar un objeto">
       <outgoing>Flow_04jq0rb</outgoing>
     </startEvent>
     <task id="Activity_12ckh9u" name="Registrar intento de entrada y motivo de rechazo">
@@ -76,7 +71,7 @@
       <incoming>Flow_0i0uzxu</incoming>
     </endEvent>
     <task id="Activity_1ptnqtx" name="Evaluar si aceptar la solicitud">
-      <incoming>Flow_1xeqmdv</incoming>
+      <incoming>Flow_04jq0rb</incoming>
       <outgoing>Flow_1tpit0g</outgoing>
     </task>
     <exclusiveGateway id="Gateway_1uqe20x">
@@ -95,8 +90,7 @@
       <incoming>Flow_0ny1915</incoming>
       <outgoing>Flow_18jujai</outgoing>
     </task>
-    <sequenceFlow id="Flow_04jq0rb" sourceRef="Event_1nj8ghl" targetRef="Activity_0673ig5" />
-    <sequenceFlow id="Flow_1xeqmdv" sourceRef="Activity_0673ig5" targetRef="Activity_1ptnqtx" />
+    <sequenceFlow id="Flow_04jq0rb" sourceRef="Event_1nj8ghl" targetRef="Activity_1ptnqtx" />
     <sequenceFlow id="Flow_0nhrnyz" name="solicitud rechazada" sourceRef="Gateway_1uqe20x" targetRef="Activity_12ckh9u" />
     <sequenceFlow id="Flow_086rl53" sourceRef="Activity_12ckh9u" targetRef="Activity_07om2s5" />
     <sequenceFlow id="Flow_11g5yqo" name="solicitud aceptada" sourceRef="Gateway_1uqe20x" targetRef="Activity_1vwcxh2" />
@@ -114,26 +108,22 @@
         <omgdc:Bounds x="160" y="80" width="1330" height="620" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Lane_1kkl15u_di" bpmnElement="Lane_1kkl15u" isHorizontal="true">
-        <omgdc:Bounds x="190" y="450" width="1300" height="250" />
+      <bpmndi:BPMNShape id="Lane_0muc3r3_di" bpmnElement="Lane_0muc3r3" isHorizontal="true">
+        <omgdc:Bounds x="190" y="80" width="1300" height="170" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Lane_0j91dlt_di" bpmnElement="Lane_0j91dlt" isHorizontal="true">
         <omgdc:Bounds x="190" y="250" width="1300" height="200" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Lane_0muc3r3_di" bpmnElement="Lane_0muc3r3" isHorizontal="true">
-        <omgdc:Bounds x="190" y="80" width="1300" height="170" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Activity_0673ig5_di" bpmnElement="Activity_0673ig5">
-        <omgdc:Bounds x="310" y="520" width="100" height="80" />
+      <bpmndi:BPMNShape id="Lane_1kkl15u_di" bpmnElement="Lane_1kkl15u" isHorizontal="true">
+        <omgdc:Bounds x="190" y="450" width="1300" height="250" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Event_1nj8ghl_di" bpmnElement="Event_1nj8ghl">
         <omgdc:Bounds x="242" y="542" width="36" height="36" />
         <bpmndi:BPMNLabel>
-          <omgdc:Bounds x="222" y="585" width="78" height="27" />
+          <omgdc:Bounds x="221" y="585" width="81" height="27" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_12ckh9u_di" bpmnElement="Activity_12ckh9u">
@@ -194,10 +184,7 @@
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge id="Flow_04jq0rb_di" bpmnElement="Flow_04jq0rb">
         <omgdi:waypoint x="278" y="560" />
-        <omgdi:waypoint x="310" y="560" />
-      </bpmndi:BPMNEdge>
-      <bpmndi:BPMNEdge id="Flow_1xeqmdv_di" bpmnElement="Flow_1xeqmdv">
-        <omgdi:waypoint x="360" y="520" />
+        <omgdi:waypoint x="360" y="560" />
         <omgdi:waypoint x="360" y="390" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0nhrnyz_di" bpmnElement="Flow_0nhrnyz">
