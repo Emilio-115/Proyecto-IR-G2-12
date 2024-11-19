@@ -8,31 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse tal como se describe en el siguiente caso de uso cuando un empleado pida al RA registrar un objeto en almacén.  
-  
-
-1. El RA interactúa con el almacén en el que quiere almacenar el objeto.  
-
-2. El sistema le muestra los objetos que contiene el almacén y le enseña las operaciones posibles sobre él.  
-
-3. El RA pulsa el botón de añadir objeto.  
-
-4. El sistema muestra una lista con un buscador para seleccionar el empleado que quiere almacenar el objeto.  
-
-5. El RA selecciona al empleado y le da a continuar.  
-
-6. El sistema le muestra un formulario para rellenar con los datos del objeto.  
-
-7. El RA rellena el formulario con los datos del objeto y le da a continuar.  
-
-8. El sistema le muestra un modal para que acepte o rechace el registro.  
-
-9. El RA pulsa el botón de rechazar operación.  
-
-10. El sistema le muestra la plantilla del justificante de rechazo.  
-
-11. El RA rellena el justificante de rechazo con el motivo del rechazo y le da a confirmar.  
-
-12. El sistema envía el justificante de rechazo al empleado y lo manda a la pestaña del almacén.]]></markdownProperty>
+ ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El RA está con su sesión abierta en el sistema.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El historial refleja el rechazo de la petición de registrar objeto.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
@@ -42,5 +18,18 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true"/>
+  <children numbered="true">
+    <child id="87XtvGbY9Dgb"/>
+    <child id="43FgpGZfN98c"/>
+    <child id="4encHX38JcbY"/>
+    <child id="7wrvqpZEnnm9"/>
+    <child id="3S8CzgXFXskd"/>
+    <child id="4pdqZ5qEQ7jY"/>
+    <child id="B3GBggNUcfpz"/>
+    <child id="6nhCpbwEZDvC"/>
+    <child id="6zxBHZDdboTg"/>
+    <child id="6hJVowAJKXEt"/>
+    <child id="3gYfoKDqMyR6"/>
+    <child id="39QmP3dUzK3i"/>
+  </children>
 </object>
