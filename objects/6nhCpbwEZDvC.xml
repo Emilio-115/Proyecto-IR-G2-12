@@ -2,7 +2,7 @@
 <object id="6nhCpbwEZDvC" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema le muestra un modal para que acepte o rechace el registro.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema le solicita al RA que acepte o rechace la salida.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

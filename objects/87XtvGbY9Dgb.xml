@@ -2,7 +2,7 @@
 <object id="87XtvGbY9Dgb" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El RA interactúa con el almacén en el que quiere almacenar el objeto.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El RA solicita ver el almacén en el que quiere sacar el objeto.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

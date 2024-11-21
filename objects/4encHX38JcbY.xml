@@ -2,7 +2,7 @@
 <object id="4encHX38JcbY" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El RA pulsa el botón de añadir objeto.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El RA solicita sacar un objeto.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

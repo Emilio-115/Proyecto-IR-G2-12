@@ -2,7 +2,7 @@
 <object id="3gYfoKDqMyR6" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El RA rellena el justificante de rechazo con el motivo del rechazo y le da a confirmar.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El responsable de la entrada firma el albarán.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
