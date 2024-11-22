@@ -15,9 +15,9 @@
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
-    <markdownProperty name="comments" category="comments"><![CDATA[jimjimujmuhmuhnuhnhu]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[Si el RA rechaza la solicitud tendrá que escribir el motivo del rechazo.]]></markdownProperty>
   </properties>
-  <children numbered="true">
+  <children>
     <child id="j67fuAb22TrB"/>
     <child id="3eBAws4pMAbD"/>
     <child id="83LWUxpR5XwD"/>
