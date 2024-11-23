@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<object id="492rZNNG47Yf" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
-  <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Historial]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Todos los movimientos (salidas, entradas, préstamos y retidada) del objeto, quién lo ha realizado, quién lo ha autorizado, y cuándo ha ocurrido.]]></markdownProperty>
-    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
-  </properties>
-  <children/>
-</object>
