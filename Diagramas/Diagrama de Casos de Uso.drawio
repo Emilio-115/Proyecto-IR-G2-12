@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Página-1" id="Nw3fSBPWjp1FmQMlADDS">
+    <mxGraphModel dx="1050" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="-220" width="540" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-16" value="" style="group" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-7">
+          <mxGeometry width="540" height="910.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-37" value="" style="group" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-16">
+          <mxGeometry width="540" height="910.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry width="540" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-6" value="Sistema" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="221.25" y="870" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Trasladar objeto del almacén&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="260" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-44" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="430" y="360" as="geometry">
+            <mxPoint x="8" y="-39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Registrar objeto en el almacén&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="40" y="120.00452054794522" width="140" height="87.26027397260275" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="VTh1WVp4rAr-fZZ_ZDru-37" source="VTh1WVp4rAr-fZZ_ZDru-23" target="VTh1WVp4rAr-fZZ_ZDru-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="160" />
+              <mxPoint x="440" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Sacar objeto del almacén&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="230" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="VTh1WVp4rAr-fZZ_ZDru-37" source="VTh1WVp4rAr-fZZ_ZDru-27" target="VTh1WVp4rAr-fZZ_ZDru-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="330" />
+              <mxPoint x="330" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Prestar objeto del almacén&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="40" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="VTh1WVp4rAr-fZZ_ZDru-37" source="VTh1WVp4rAr-fZZ_ZDru-23" target="VTh1WVp4rAr-fZZ_ZDru-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-30">
+          <mxGeometry x="-0.0591" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="VTh1WVp4rAr-fZZ_ZDru-37" source="VTh1WVp4rAr-fZZ_ZDru-27" target="VTh1WVp4rAr-fZZ_ZDru-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-32">
+          <mxGeometry x="0.3417" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="330" y="310" as="geometry">
+            <mxPoint x="13" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-46" value="Registrar empleado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="120" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-48" value="Borrar empleado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="300" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-50" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Consultar el historial de operaciones&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-37">
+          <mxGeometry x="200" y="530" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Consultar el inventario del Círculo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-16">
+          <mxGeometry x="240" y="760.4088812785388" width="140" height="88.47222222222221" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Consultar el inventario de un almacén&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VTh1WVp4rAr-fZZ_ZDru-16">
+          <mxGeometry x="70" y="648.2191780821918" width="140" height="87.26027397260275" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="VTh1WVp4rAr-fZZ_ZDru-16" source="VTh1WVp4rAr-fZZ_ZDru-14" target="VTh1WVp4rAr-fZZ_ZDru-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="685.6164383561644" as="sourcePoint" />
+            <mxPoint x="260" y="685.6164383561644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="-130" />
+              <mxPoint x="344" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="250" />
+              <mxPoint x="110" y="-160" />
+              <mxPoint x="530" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="230" />
+              <mxPoint x="210" y="230" />
+              <mxPoint x="210" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="240" />
+              <mxPoint x="300" y="240" />
+              <mxPoint x="300" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="255" />
+              <mxPoint x="90" y="255" />
+              <mxPoint x="90" y="-190" />
+              <mxPoint x="720" y="-190" />
+              <mxPoint x="720" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="270" />
+              <mxPoint x="300" y="270" />
+              <mxPoint x="300" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-1" value="RA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-2" target="VTh1WVp4rAr-fZZ_ZDru-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="400" />
+              <mxPoint x="190" y="400" />
+              <mxPoint x="190" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-2" target="VTh1WVp4rAr-fZZ_ZDru-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="390" />
+              <mxPoint x="240" y="462" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-2" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTh1WVp4rAr-fZZ_ZDru-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="VTh1WVp4rAr-fZZ_ZDru-1" target="VTh1WVp4rAr-fZZ_ZDru-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="360" as="sourcePoint" />
+            <mxPoint x="270" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
