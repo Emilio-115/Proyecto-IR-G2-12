@@ -14,7 +14,17 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="79YGCwaPkXfC" traceType=":Proteus-dependency"/>
+      <trace target="4E6JN3N8t2W6" traceType=":Proteus-dependency"/>
+      <trace target="6tibPQY678xH" traceType=":Proteus-dependency"/>
+      <trace target="cciNtpQp6bB9" traceType=":Proteus-dependency"/>
+      <trace target="3ybqSsq7d3Zo" traceType=":Proteus-dependency"/>
+      <trace target="6sX5diGCo3dd" traceType=":Proteus-dependency"/>
+      <trace target="8EFHHDtx4AVC" traceType=":Proteus-dependency"/>
+      <trace target="45gLf5s55Mew" traceType=":Proteus-dependency"/>
+      <trace target="6WxFSESEBL99" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[Si el RA rechaza la solicitud tendrá que escribir el motivo del rechazo.]]></markdownProperty>
   </properties>
   <children>
