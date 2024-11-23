@@ -5,9 +5,7 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Empleado]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
-      <trace target="4CU8vymqh3K8" traceType=":Proteus-author"/>
-    </traceProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Persona que requiere el uso de un objeto del almacén.]]></markdownProperty>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>

@@ -2,7 +2,7 @@
 <object id="55r8ghvRfw39" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Departamento]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Departamento al que pertenece el usuario,]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Departamento al que pertenece el usuario.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
