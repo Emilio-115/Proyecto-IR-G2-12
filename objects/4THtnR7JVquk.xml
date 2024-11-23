@@ -30,8 +30,11 @@
       <trace target="7KaHRqGDjKtM" traceType=":Proteus-dependency"/>
       <trace target="6WxFSESEBL99" traceType=":Proteus-dependency"/>
       <trace target="45gLf5s55Mew" traceType=":Proteus-dependency"/>
+      <trace target="7jLAeY7aiRdQ" traceType=":Proteus-dependency"/>
+      <trace target="4VqgnXDkxDgQ" traceType=":Proteus-dependency"/>
+      <trace target="of48wUYGtfDR" traceType=":Proteus-dependency"/>
     </traceProperty>
-    <markdownProperty name="comments" category="comments"><![CDATA[Si el RA rechaza la solicitud tendrá que escribir el motivo del rechazo.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[Si el RA rechaza la solicitud, tendrá que rellenar el justificante de rechazo con el motivo del rechazo y enviarselo al empleado.]]></markdownProperty>
   </properties>
   <children>
     <child id="4SCyS4dnhNSY"/>
