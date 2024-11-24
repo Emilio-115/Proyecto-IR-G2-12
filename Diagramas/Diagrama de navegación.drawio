@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="190" />
-              <mxPoint x="785" y="190" />
+              <mxPoint x="800" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="180" />
-              <mxPoint x="640" y="180" />
+              <mxPoint x="700" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -200,19 +200,35 @@
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="FyjQgoxo0zCCoK0fw8fN-30" target="FyjQgoxo0zCCoK0fw8fN-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="130" />
+              <mxPoint x="490" y="80" />
+              <mxPoint x="490" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;startArrow=classic;startFill=1;" edge="1" parent="1" source="FyjQgoxo0zCCoK0fw8fN-30" target="FyjQgoxo0zCCoK0fw8fN-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="535" y="160" />
+              <mxPoint x="510" y="90" />
+              <mxPoint x="510" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyjQgoxo0zCCoK0fw8fN-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="FyjQgoxo0zCCoK0fw8fN-30" target="FyjQgoxo0zCCoK0fw8fN-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyjQgoxo0zCCoK0fw8fN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="FyjQgoxo0zCCoK0fw8fN-30" target="FyjQgoxo0zCCoK0fw8fN-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="158" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-30" value="Vista de usuarios" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="110" height="50" as="geometry" />
+          <mxGeometry x="380" y="120" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-38" value="Vista de crear almacén" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="110" height="50" as="geometry" />
@@ -227,7 +243,7 @@
           <mxGeometry x="459" y="500" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-47" value="Vista de información de objeto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="730" y="100" width="110" height="50" as="geometry" />
+          <mxGeometry x="770" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-48" value="Vista de información de operación sobre objeto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="459" y="380" width="140" height="50" as="geometry" />
@@ -236,16 +252,19 @@
           <mxGeometry x="500" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-52" value="Vista de registrar usuario" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="479" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="459" y="-10" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-63" value="Vista de información de almacén" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-65" value="Vista de préstamo de objeto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="210" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FyjQgoxo0zCCoK0fw8fN-66" value="Vista de traslado de objeto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FyjQgoxo0zCCoK0fw8fN-71" value="Vista de editar usuario" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-10" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
