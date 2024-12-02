@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg baseProfile="tiny" height="1179" version="1.2" viewBox="0 0 580 1179" width="580" xmlns="http://www.w3.org/2000/svg">
+  <text fill="black" font-family="Arial Unicode MS" font-size="20" font-weight="bold" x="202.85774739583331" y="30.640625">
+    Préstamo de objeto  </text>
+  <path d="M-347,-1015.0000000000001 L-347,0" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.171223958333314" y="79.0364583333331">
+    RA  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="1108.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.171223958333314" y="1130.765625">
+    RA  </text>
+  <path d="M-45,-1015.0000000000001 L-45,0" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="70" x="302.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="313.22916666666663" y="79.0364583333331">
+    Sistema  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="70" x="302.5" y="1108.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="313.22916666666663" y="1130.765625">
+    Sistema  </text>
+  <path d="M91,-1015.0000000000001 L91,0" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="182" x="382.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="393.60677083333337" y="79.0364583333331">
+    Responsable de la entrada  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="182" x="382.5" y="1108.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="393.60677083333337" y="1130.765625">
+    Responsable de la entrada  </text>
+  <rect fill="white" height="15.333333333333371" width="88.93229166666669" x="141.90559895833331" y="106.83333333333348"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="141.90559895833331" y="120.16666666666681">
+    Ver el almacén  </text>
+  <path d="M-346.56770833333337,-983 L-45.68880208333337,-983" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-983 L-46,-983 L-54,-991 L-54,-983 L-54,-975 L-46,-983" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="182.3046875" x="95.21940104166663" y="139.0312500000001"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="95.21940104166663" y="152.36458333333346">
+    Mostrar inventario del almacén  </text>
+  <path d="M-346.56770833333337,-951 L-45.688802083333314,-951" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-951 L-346,-951 L-338,-959 L-338,-951 L-338,-943 L-346,-951" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="151.19791666666669" x="110.77278645833326" y="171.22916666666674"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="110.77278645833326" y="184.56250000000009">
+    Comprobar disponibilidad  </text>
+  <path d="M-346.56770833333337,-918 L-45.68880208333337,-918" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-918 L-46,-918 L-54,-926 L-54,-918 L-54,-910 L-46,-918" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="140.078125" x="116.33268229166663" y="203.42708333333337"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="116.33268229166663" y="216.7604166666667">
+    Mostrar datos de objeto  </text>
+  <path d="M-346.56770833333337,-886 L-45.68880208333337,-886" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-886 L-346,-886 L-338,-894 L-338,-886 L-338,-878 L-346,-886" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="146.73828125" x="113.00260416666663" y="235.625"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="113.00260416666663" y="248.95833333333334">
+    Solicitar préstamo objeto  </text>
+  <path d="M-346.56770833333337,-854 L-45.68880208333337,-854" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-854 L-46,-854 L-54,-862 L-54,-854 L-54,-846 L-46,-854" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="171.19140625" x="100.77604166666663" y="267.82291666666663"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="100.77604166666663" y="281.15624999999994">
+    Mostrar todos los empleados  </text>
+  <path d="M-346.56770833333337,-822 L-45.68880208333337,-822" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-822 L-346,-822 L-338,-830 L-338,-822 L-338,-814 L-346,-822" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="131.93359375" x="120.40494791666663" y="300.02083333333326"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="120.40494791666663" y="313.3541666666666">
+    Seleccionar empleado  </text>
+  <path d="M-346.56770833333337,-790 L-45.68880208333337,-790" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-790 L-46,-790 L-54,-798 L-54,-790 L-54,-782 L-46,-790" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="128.97786458333334" x="121.88281249999994" y="332.2187499999999"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="121.88281249999994" y="345.5520833333332">
+    Pedir datos del objeto  </text>
+  <path d="M-346.56770833333337,-757 L-45.68880208333337,-757" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-757 L-346,-757 L-338,-765 L-338,-757 L-338,-749 L-346,-757" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="150.46875" x="111.13736979166663" y="364.4166666666665"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="111.13736979166663" y="377.74999999999983">
+    Introducir datos de objeto  </text>
+  <path d="M-346.56770833333337,-725 L-45.68880208333337,-725" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-725 L-46,-725 L-54,-733 L-54,-725 L-54,-717 L-46,-725" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="177.87760416666669" x="97.43294270833326" y="396.61458333333314"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="97.43294270833326" y="409.94791666666646">
+    Solicitar aceptación o rechazo  </text>
+  <path d="M-346.56770833333337,-693 L-45.68880208333337,-693" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-693 L-346,-693 L-338,-701 L-338,-693 L-338,-685 L-346,-693" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-335,-680 L-335,-680 L-65,-680 L-57,-672 L-57,-643 L-335,-643 L-335,-680" fill="white" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-64.79557291666669,-679.6875000000002 L-64.79557291666669,-671.6875000000002 L-56.795572916666686,-671.6875000000002" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="52.59244791666663" y="451.07812499999983">
+    RA puede rechazar y rellena una justificación  </text>
+  <rect fill="white" height="15.333333333333371" width="94.11458333333334" x="139.31445312499997" y="478.8749999999999"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="139.31445312499997" y="492.2083333333332">
+    Aceptar registro  </text>
+  <path d="M-346.56770833333337,-611 L-45.68880208333337,-611" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-611 L-46,-611 L-54,-619 L-54,-611 L-54,-603 L-46,-611" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="97.09635416666669" x="356.75455729166663" y="511.0729166666665"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="356.75455729166663" y="524.4062499999999">
+    Generar albarán  </text>
+  <path d="M-44.68880208333337,-579 L90.29427083333337,-579" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M90,-579 L90,-579 L82,-587 L82,-579 L82,-571 L90,-579" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="86.69270833333331" x="361.9563802083333" y="543.2708333333331"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="361.9563802083333" y="556.6041666666665">
+    Firmar albarán  </text>
+  <path d="M-44.68880208333337,-546 L90.29427083333337,-546" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-44,-546 L-44,-546 L-36,-554 L-36,-546 L-36,-538 L-44,-546" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="102.27213541666669" x="135.23567708333331" y="575.4687499999998"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="135.23567708333331" y="588.8020833333331">
+    Registrar albarán  </text>
+  <path d="M-346.56770833333337,-514 L-45.68880208333337,-514" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-514 L-346,-514 L-338,-522 L-338,-514 L-338,-506 L-346,-514" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="104.4921875" x="353.056640625" y="607.6666666666665"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="353.056640625" y="620.9999999999999">
+    Enviar justificante  </text>
+  <path d="M-44.68880208333337,-482 L90.29427083333337,-482" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M90,-482 L90,-482 L82,-490 L82,-482 L82,-474 L90,-482" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="88.93229166666669" x="141.90559895833331" y="639.8645833333331"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="141.90559895833331" y="653.1979166666665">
+    Ver el almacén  </text>
+  <path d="M-346.56770833333337,-450 L-45.68880208333337,-450" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-450 L-46,-450 L-54,-458 L-54,-450 L-54,-442 L-46,-450" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="182.3046875" x="95.21940104166657" y="672.0624999999998"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="95.21940104166657" y="685.3958333333331">
+    Mostrar inventario del almacén  </text>
+  <path d="M-346.56770833333337,-418 L-45.68880208333337,-418" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-418 L-346,-418 L-338,-426 L-338,-418 L-338,-410 L-346,-418" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="128.22265625" x="122.26041666666663" y="704.2604166666665"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="122.26041666666663" y="717.5937499999999">
+    Solicitar añadir objeto  </text>
+  <path d="M-346.56770833333337,-385 L-45.68880208333337,-385" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-385 L-46,-385 L-54,-393 L-54,-385 L-54,-377 L-46,-385" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="171.19140625" x="100.77604166666657" y="736.4583333333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="100.77604166666657" y="749.7916666666666">
+    Mostrar todos los empleados  </text>
+  <path d="M-346.56770833333337,-353 L-45.68880208333337,-353" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-353 L-346,-353 L-338,-361 L-338,-353 L-338,-345 L-346,-353" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="131.93359375" x="120.40494791666663" y="768.6562499999999"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="120.40494791666663" y="781.9895833333333">
+    Seleccionar empleado  </text>
+  <path d="M-346.56770833333337,-321 L-45.68880208333337,-321" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-321 L-46,-321 L-54,-329 L-54,-321 L-54,-313 L-46,-321" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="128.97786458333334" x="121.88281249999994" y="800.8541666666665"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="121.88281249999994" y="814.1874999999999">
+    Pedir datos del objeto  </text>
+  <path d="M-346.56770833333337,-289 L-45.68880208333337,-289" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-289 L-346,-289 L-338,-297 L-338,-289 L-338,-281 L-346,-289" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="150.46875" x="111.13736979166657" y="833.0520833333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="111.13736979166657" y="846.3854166666666">
+    Introducir datos de objeto  </text>
+  <path d="M-346.56770833333337,-257 L-45.68880208333337,-257" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-257 L-46,-257 L-54,-265 L-54,-257 L-54,-249 L-46,-257" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="177.87760416666669" x="97.43294270833326" y="865.25"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="97.43294270833326" y="878.5833333333334">
+    Solicitar aceptación o rechazo  </text>
+  <path d="M-346.56770833333337,-224 L-45.68880208333337,-224" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-224 L-346,-224 L-338,-232 L-338,-224 L-338,-216 L-346,-224" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-335,-211 L-335,-211 L-65,-211 L-57,-203 L-57,-174 L-335,-174 L-335,-211" fill="white" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-64.79557291666674,-211.05208333333337 L-64.79557291666674,-203.05208333333337 L-56.79557291666674,-203.05208333333337" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="52.59244791666663" y="919.7135416666666">
+    RA puede rechazar y rellena una justificación  </text>
+  <rect fill="white" height="15.333333333333371" width="94.11458333333334" x="139.31445312499997" y="947.5104166666666"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="139.31445312499997" y="960.84375">
+    Aceptar registro  </text>
+  <path d="M-346.56770833333337,-142 L-45.68880208333337,-142" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-46,-142 L-46,-142 L-54,-150 L-54,-142 L-54,-134 L-46,-142" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333371" width="97.09635416666669" x="356.75455729166663" y="979.7083333333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="356.75455729166663" y="993.0416666666666">
+    Generar albarán  </text>
+  <path d="M-44.68880208333337,-110 L90.29427083333331,-110" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M90,-110 L90,-110 L82,-118 L82,-110 L82,-102 L90,-110" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="86.69270833333331" x="361.9563802083333" y="1011.90625"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="361.9563802083333" y="1025.2395833333333">
+    Firmar albarán  </text>
+  <path d="M-44.68880208333337,-78 L90.29427083333337,-78" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-44,-78 L-44,-78 L-36,-86 L-36,-78 L-36,-70 L-44,-78" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333258" width="102.27213541666669" x="135.23567708333331" y="1044.1041666666667"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="135.23567708333331" y="1057.4375">
+    Registrar albarán  </text>
+  <path d="M-346.56770833333337,-46 L-45.68880208333337,-46" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M-346,-46 L-346,-46 L-338,-54 L-338,-46 L-338,-38 L-346,-46" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <rect fill="white" height="15.333333333333485" width="104.4921875" x="353.056640625" y="1076.3020833333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="353.056640625" y="1089.6354166666665">
+    Enviar justificante  </text>
+  <path d="M-44.68880208333337,-13 L90.29427083333337,-13" fill="none" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <path d="M90,-13 L90,-13 L82,-21 L82,-13 L82,-5 L90,-13" fill="black" stroke="black" stroke-width="1" transform="translate(382.5 1108.5)"/>
+  <text fill="black" font-family="Arial" font-size="14" x="361.52734375" y="1169.640625">
+    www.websequencediagrams.com  </text>
+</svg>
