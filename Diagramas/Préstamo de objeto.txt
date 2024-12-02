@@ -1,0 +1,64 @@
+title Préstamo de objeto
+
+
+RA->Sistema: Ver el almacén
+
+Sistema->RA: Mostrar inventario del almacén
+
+RA->Sistema: Comprobar disponibilidad 
+
+Sistema->RA: Mostrar datos de objeto
+
+RA->Sistema: Solicitar préstamo objeto
+
+Sistema->RA: Mostrar todos los empleados
+
+RA->Sistema: Seleccionar empleado
+
+Sistema->RA: Pedir datos del objeto
+
+RA->Sistema: Introducir datos de objeto
+
+Sistema->RA: Solicitar aceptación o rechazo
+note right of RA: RA puede rechazar y rellena una justificación
+RA->Sistema: Aceptar registro
+
+Sistema->Responsable de la entrada: Generar albarán
+
+Responsable de la entrada->Sistema: Firmar albarán
+
+Sistema->RA: Registrar albarán 
+
+Sistema->Responsable de la entrada: Enviar justificante 
+
+RA->Sistema: Ver el almacén
+
+Sistema->RA: Mostrar inventario del almacén
+
+RA->Sistema: Solicitar añadir objeto
+
+Sistema->RA: Mostrar todos los empleados
+
+RA->Sistema: Seleccionar empleado
+
+Sistema->RA: Pedir datos del objeto
+
+RA->Sistema: Introducir datos de objeto
+
+Sistema->RA: Solicitar aceptación o rechazo
+note right of RA: RA puede rechazar y rellena una justificación
+RA->Sistema: Aceptar registro
+
+Sistema->Responsable de la entrada: Generar albarán
+
+Responsable de la entrada->Sistema: Firmar albarán
+
+Sistema->RA: Registrar albarán 
+
+Sistema->Responsable de la entrada: Enviar justificante 
+
+
+
+
+
+
