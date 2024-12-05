@@ -1,64 +1,100 @@
 title Préstamo de objeto
 
 
-RA->Sistema: Ver el almacén
+RA->Interfaz de usuario: Ver el almacén
 
-Sistema->RA: Mostrar inventario del almacén
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
 
-RA->Sistema: Comprobar disponibilidad 
+Interfaz del sistema -->Interfaz de usuario:
 
-Sistema->RA: Mostrar datos de objeto
+Interfaz de usuario->RA: Mostrar inventario del almacén
 
-RA->Sistema: Solicitar préstamo objeto
+RA->Interfaz de usuario: Comprobar disponibilidad 
 
-Sistema->RA: Mostrar todos los empleados
+Interfaz de usuario->Interfaz del sistema: Conseguir datos del objeto
 
-RA->Sistema: Seleccionar empleado
+Interfaz del sistema -->Interfaz de usuario:
 
-Sistema->RA: Pedir datos del objeto
+Interfaz de usuario->RA: Mostrar datos de objeto
 
-RA->Sistema: Introducir datos de objeto
+RA->Interfaz de usuario: Solicitar préstamo objeto
 
-Sistema->RA: Solicitar aceptación o rechazo
+Interfaz de usuario->Interfaz del sistema: Conseguir lista de todos los empleados
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar todos los empleados
+
+RA->Interfaz de usuario: Seleccionar empleado
+
+Interfaz de usuario->RA: Pedir datos del objeto
+
+RA->Interfaz de usuario: Introducir datos de objeto
+
+Interfaz de usuario->Interfaz del sistema: Guardar datos de objeto
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Solicitar aceptación o rechazo
 note right of RA: RA puede rechazar y rellena una justificación
-RA->Sistema: Aceptar registro
+RA->Interfaz de usuario: Aceptar registro
 
-Sistema->Responsable de la entrada: Generar albarán
+Interfaz de usuario->Interfaz del sistema: Solicitar generar albarán
 
-Responsable de la entrada->Sistema: Firmar albarán
+Interfaz del sistema->Interfaz de usuario: Generar albarán
 
-Sistema->RA: Registrar albarán 
+Interfaz de usuario->Responsable de la entrada: Mostrar albarán
 
-Sistema->Responsable de la entrada: Enviar justificante 
+Responsable de la entrada->Interfaz de usuario: Firmar albarán
 
-RA->Sistema: Ver el almacén
+Interfaz de usuario->Interfaz del sistema: Registrar albarán 
 
-Sistema->RA: Mostrar inventario del almacén
+Interfaz del sistema -->Interfaz de usuario:
 
-RA->Sistema: Solicitar añadir objeto
+Interfaz de usuario->Responsable de la entrada: Enviar justificante 
 
-Sistema->RA: Mostrar todos los empleados
 
-RA->Sistema: Seleccionar empleado
 
-Sistema->RA: Pedir datos del objeto
+RA->Interfaz de usuario: Ver el almacén
 
-RA->Sistema: Introducir datos de objeto
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
 
-Sistema->RA: Solicitar aceptación o rechazo
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar inventario del almacén
+
+RA->Interfaz de usuario: Solicitar añadir objeto
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista de todos los empleados
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar todos los empleados
+
+RA->Interfaz de usuario: Seleccionar empleado
+
+Interfaz de usuario->RA: Pedir datos del objeto
+
+RA->Interfaz de usuario: Introducir datos de objeto
+
+Interfaz de usuario->Interfaz del sistema: Guardar datos de objeto
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Solicitar aceptación o rechazo
 note right of RA: RA puede rechazar y rellena una justificación
-RA->Sistema: Aceptar registro
+RA->Interfaz de usuario: Aceptar registro
 
-Sistema->Responsable de la entrada: Generar albarán
+Interfaz de usuario->Interfaz del sistema: Solicitar generar albarán
 
-Responsable de la entrada->Sistema: Firmar albarán
+Interfaz del sistema->Interfaz de usuario: Generar albarán
 
-Sistema->RA: Registrar albarán 
+Interfaz de usuario->Responsable de la entrada: Mostrar albarán
 
-Sistema->Responsable de la entrada: Enviar justificante 
+Responsable de la entrada->Interfaz de usuario: Firmar albarán
 
+Interfaz de usuario->Interfaz del sistema: Registrar albarán 
 
+Interfaz del sistema -->Interfaz de usuario:
 
-
-
-
+Interfaz de usuario->Responsable de la entrada: Enviar justificante 

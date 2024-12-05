@@ -8,7 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema debería de comportarse como se describe en el caso de uso cuando el empleado quiera buscar un objeto en el inventario.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El empleado tiene iniciada sesión en el sistema.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[No aplica.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El empleado ve la información del objeto.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
@@ -16,7 +16,6 @@
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="79YGCwaPkXfC" traceType=":Proteus-dependency"/>
-      <trace target="6PgZjGmoeYqE" traceType=":Proteus-dependency"/>
       <trace target="of48wUYGtfDR" traceType=":Proteus-dependency"/>
       <trace target="3rMGXN6JCCXP" traceType=":Proteus-dependency"/>
       <trace target="5Ffx7DvTV9Q4" traceType=":Proteus-dependency"/>
@@ -29,7 +28,7 @@
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true">
+  <children>
     <child id="5bZdtxR2Rm3H"/>
     <child id="3LCiteFdYehK"/>
     <child id="dRogmPvVAfce"/>

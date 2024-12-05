@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el RA quiera consultar las operaciones que se han llevado a cabo sobre alguna parte del inventario.
 ]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El RA está con su sesión abierta en el sistema.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[No aplica.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El RA ve las operaciones más recientes.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
@@ -17,13 +17,12 @@
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="7jLAeY7aiRdQ" traceType=":Proteus-dependency"/>
-      <trace target="8P8ubVpSJQdu" traceType=":Proteus-dependency"/>
       <trace target="45gLf5s55Mew" traceType=":Proteus-dependency"/>
       <trace target="6WxFSESEBL99" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[El RA puede solicitar para revisar las operaciones hechas sobre el almacén o sobre los objetos.]]></markdownProperty>
   </properties>
-  <children numbered="true">
+  <children>
     <child id="7LxUjr3YzQfB"/>
     <child id="7HBqHhZwRw3Z"/>
     <child id="3sk5DTkYQXfX"/>
