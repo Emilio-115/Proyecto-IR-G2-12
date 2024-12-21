@@ -28,6 +28,7 @@
       <trace target="7jLAeY7aiRdQ" traceType=":Proteus-dependency"/>
       <trace target="of48wUYGtfDR" traceType=":Proteus-dependency"/>
       <trace target="xY8ZVqkr6D6f" traceType=":Proteus-dependency"/>
+      <trace target="5eUgtXCCUDEp" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[Si el RA rechaza la solicitud, tendrá que rellenar el justificante de rechazo con el motivo del rechazo y enviarselo al empleado.]]></markdownProperty>
   </properties>

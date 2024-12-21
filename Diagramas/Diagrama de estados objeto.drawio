@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" scale="1" border="10" version="25.0.3">
+  <diagram name="Página-1" id="tblenBmXZagl9jD_R0RG">
+    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-1" target="wrbTurBlblSNQ2XBuoJh-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-8" value="Se vuelve &lt;br&gt;inutilizable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-21">
+          <mxGeometry x="-0.3762" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="250" width="490" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="60" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-2" edge="1" target="wrbTurBlblSNQ2XBuoJh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-3" value="Se registra&lt;br&gt;un objeto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-3">
+          <mxGeometry x="-0.244" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-4" value="Llega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-5" target="wrbTurBlblSNQ2XBuoJh-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-4" value="Se acepta el registro &lt;br&gt;del objeto en el almacén" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-17">
+          <mxGeometry x="-0.1295" y="-2" relative="1" as="geometry">
+            <mxPoint x="23" y="-42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-5" value="Prestado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="270" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-8" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="332.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="392.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-10" target="wrbTurBlblSNQ2XBuoJh-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="293" />
+              <mxPoint x="415" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-1" value="Se confirma el préstamo&lt;br&gt;[Está en el almacén]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-15">
+          <mxGeometry x="0.0912" y="-1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-10" value="Almacenamiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="392.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wrbTurBlblSNQ2XBuoJh-11" target="wrbTurBlblSNQ2XBuoJh-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-7" value="Se confirma el registro &lt;br&gt;del objeto en el almacén" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-23">
+          <mxGeometry x="-0.5743" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-11" value="Transfiriendo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="510" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wrbTurBlblSNQ2XBuoJh-10" target="wrbTurBlblSNQ2XBuoJh-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNG8Vtn0bNiyft2Njvhf-5" value="Se confirma el traslado&lt;br&gt;[Está en el almacén]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wrbTurBlblSNQ2XBuoJh-19">
+          <mxGeometry x="-0.3612" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-20" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wrbTurBlblSNQ2XBuoJh-22" value="retirado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="735" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
