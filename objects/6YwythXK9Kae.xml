@@ -8,14 +8,13 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse tal como se describe en el siguiente caso de uso cuando el RA borra un empleado.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El RA se encuentra en la pestaña de la lista de empleados]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[No aplica.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Los datos del empleado desaparecen de la lista de empleados.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
-      <trace target="77ynTkbGpu2Y" traceType=":Proteus-dependency"/>
       <trace target="WcQSxT9Ntoeo" traceType=":Proteus-dependency"/>
       <trace target="4NwwLWy4CaMV" traceType=":Proteus-dependency"/>
       <trace target="45gLf5s55Mew" traceType=":Proteus-dependency"/>
