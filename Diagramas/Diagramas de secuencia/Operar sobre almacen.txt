@@ -1,0 +1,17 @@
+title Operar sobre almacen
+
+RA->Interfaz de usuario: Ver el almacén
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar inventario del almacén
+
+RA->Interfaz de usuario: Operar sobre el almacen
+
+Interfaz de usuario->Interfaz del sistema: Se realiza la operación de en el almacne
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario -->RA: 

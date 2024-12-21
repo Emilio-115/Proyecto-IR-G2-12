@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg baseProfile="tiny" height="386" version="1.2" viewBox="0 0 632 386" width="632" xmlns="http://www.w3.org/2000/svg">
+  <text fill="black" font-family="sans-serif" font-size="20" font-weight="bold" x="132.30110677083337" y="30.718749999999943">
+    Generar informe de contabilidad  </text>
+  <path d="M-425,-235.12500000000006 L-425,0" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="41" x="15.5" y="53.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="26.884765625" y="74.42708333333327">
+    RA  </text>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="41" x="15.5" y="320.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="26.884765625" y="341.59375">
+    RA  </text>
+  <path d="M-178,-235.12500000000006 L-178,0" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="149" x="209.5" y="53.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="220.974609375" y="74.42708333333327">
+    Interfaz de usuario  </text>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="149" x="209.5" y="320.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="220.974609375" y="341.59375">
+    Interfaz de usuario  </text>
+  <path d="M78,-235.12500000000006 L78,0" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="155" x="461.5" y="53.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="473.00390625" y="74.42708333333327">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="155" x="461.5" y="320.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="473.00390625" y="341.59375">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="15.333333333333343" width="114.23828125" x="102.82291666666669" y="98.70833333333326"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="102.82291666666669" y="112.04166666666659">
+    Ver el almaceces  </text>
+  <path d="M-424.92252604166663,-205 L-178.193359375,-205" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-179,-205 L-179,-205 L-187,-213 L-187,-205 L-187,-197 L-179,-205" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333343" width="226.79036458333337" x="298.05859375" y="128.56249999999994"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="298.05859375" y="141.8958333333333">
+    Conseguir lista con los almacenes  </text>
+  <path d="M-177.193359375,-175 L77.10091145833337,-175" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M77,-175 L77,-175 L69,-183 L69,-175 L69,-167 L77,-175" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333343" width="0" x="411.4537760416667" y="158.41666666666663"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="411.4537760416667" y="171.74999999999997"/>
+  <path d="M-177.193359375,-154 L77.10091145833337,-154" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-177,-154 L-177,-154 L-169,-162 L-169,-154 L-169,-146 L-177,-154" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333343" width="127.37630208333334" x="96.25390625" y="179.74999999999997"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="96.25390625" y="193.08333333333331">
+    Mostrar almacenes  </text>
+  <path d="M-424.92252604166663,-124 L-178.193359375,-124" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-424,-124 L-424,-124 L-416,-132 L-416,-124 L-416,-116 L-424,-124" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333343" width="219.22526041666669" x="50.32942708333337" y="209.60416666666663"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="50.32942708333337" y="222.93749999999997">
+    Solicitar Informe de Contabilidad  </text>
+  <path d="M-424.92252604166663,-94 L-178.19335937499994,-94" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-179,-94 L-179,-94 L-187,-102 L-187,-94 L-187,-86 L-179,-94" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333314" width="219.60286458333337" x="301.65234375" y="239.45833333333331"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="301.65234375" y="252.79166666666666">
+    Generar Informe de Contabilidad  </text>
+  <path d="M-177.193359375,-65 L77.10091145833337,-65" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M77,-65 L77,-65 L69,-73 L69,-65 L69,-57 L77,-65" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333314" width="0" x="411.4537760416667" y="269.3125"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="411.4537760416667" y="282.6458333333333"/>
+  <path d="M-177.193359375,-43 L77.10091145833337,-43" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-177,-43 L-177,-43 L-169,-51 L-169,-43 L-169,-35 L-177,-43" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <rect fill="white" height="15.333333333333371" width="107.11588541666669" x="106.38411458333337" y="290.6458333333333"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="106.38411458333337" y="303.97916666666663">
+    Mostrar Informe  </text>
+  <path d="M-424.92252604166663,-13 L-178.193359375,-13" fill="none" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <path d="M-424,-13 L-424,-13 L-416,-21 L-416,-13 L-416,-5 L-424,-13" fill="black" stroke="black" stroke-width="1" transform="translate(461.5 320.5)"/>
+  <text fill="black" font-family="Arial" font-size="14" x="413.84375" y="376.71874999999994">
+    www.websequencediagrams.com  </text>
+</svg>

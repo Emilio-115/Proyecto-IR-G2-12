@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg baseProfile="tiny" height="424" version="1.2" viewBox="0 0 539 424" width="539" xmlns="http://www.w3.org/2000/svg">
+  <text fill="black" font-family="Arial Unicode MS" font-size="20" font-weight="bold" x="194.40071614583337" y="30.58854166666663">
+    Borrar Empleado  </text>
+  <path d="M-350,-260.05208333333337 L-350,0" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.770833333333314" y="78.9843749999999">
+    RA  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="353.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.770833333333314" y="375.765625">
+    RA  </text>
+  <path d="M-162,-260.05208333333337 L-162,0" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="133" x="157.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="169.01171875000003" y="78.9843749999999">
+    Interfaz de usuario  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="133" x="157.5" y="353.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="169.01171875000003" y="375.765625">
+    Interfaz de usuario  </text>
+  <path d="M69,-260.05208333333337 L69,0" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="138" x="386.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="397.6067708333333" y="78.9843749999999">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="138" x="386.5" y="353.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="397.6067708333333" y="375.765625">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="15.333333333333343" width="103.76302083333334" x="78.24934895833331" y="106.78124999999994"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="78.24934895833331" y="120.11458333333327">
+    Ver el empleados  </text>
+  <path d="M-349.96809895833337,-228 L-162.77018229166669,-228" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-163,-228 L-163,-228 L-171,-236 L-171,-228 L-171,-220 L-163,-228" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333343" width="203.07291666666666" x="238.28320312499997" y="138.97916666666663"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="238.28320312499997" y="152.31249999999997">
+    Conseguir lista con los empleados  </text>
+  <path d="M-161.77018229166669,-196 L68.40950520833331,-196" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M68,-196 L68,-196 L60,-204 L60,-196 L60,-188 L68,-196" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333343" width="0" x="339.8196614583333" y="171.17708333333331"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="339.8196614583333" y="184.51041666666666"/>
+  <path d="M-161.77018229166666,-174 L68.40950520833337,-174" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-161,-174 L-161,-174 L-153,-182 L-153,-174 L-153,-166 L-161,-174" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333343" width="106.70572916666669" x="76.77799479166663" y="192.51041666666663"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="76.77799479166663" y="205.84374999999997">
+    Mostrar emplados  </text>
+  <path d="M-349.96809895833337,-142 L-162.77018229166669,-142" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-349,-142 L-349,-142 L-341,-150 L-341,-142 L-341,-134 L-349,-142" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333314" width="100.80729166666669" x="79.72721354166663" y="224.70833333333331"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="79.72721354166663" y="238.04166666666666">
+    Añadir empleado  </text>
+  <path d="M-349.96809895833337,-110 L-162.77018229166669,-110" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-163,-110 L-163,-110 L-171,-118 L-171,-110 L-171,-102 L-163,-110" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333314" width="160.09114583333334" x="50.08528645833326" y="256.90625"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="50.08528645833326" y="270.2395833333333">
+    Solicitar datos del emplado  </text>
+  <path d="M-349.96809895833337,-78 L-162.7701822916667,-78" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-349,-78 L-349,-78 L-341,-86 L-341,-78 L-341,-70 L-349,-78" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333371" width="131.93359375" x="64.16406250000006" y="289.10416666666663"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="64.16406250000006" y="302.43749999999994">
+    Seleccionar empleado  </text>
+  <path d="M-349.9680989583333,-46 L-162.77018229166663,-46" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M-163,-46 L-163,-46 L-171,-54 L-171,-46 L-171,-38 L-163,-46" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <rect fill="white" height="15.333333333333371" width="99.30989583333337" x="290.16471354166663" y="321.3020833333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="290.16471354166663" y="334.63541666666663">
+    Borrar empleado  </text>
+  <path d="M-161.77018229166666,-13 L68.40950520833337,-13" fill="none" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <path d="M68,-13 L68,-13 L60,-21 L60,-13 L60,-5 L68,-13" fill="black" stroke="black" stroke-width="1" transform="translate(386.5 353.5)"/>
+  <text fill="black" font-family="Arial" font-size="14" x="321.126953125" y="414.58854166666663">
+    www.websequencediagrams.com  </text>
+</svg>

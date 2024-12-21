@@ -1,0 +1,26 @@
+title Modificar objeto
+
+RA->Interfaz de usuario: Ver el almacén
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar inventario del almacén
+
+RA->Interfaz de usuario: Selecciona un objeto
+
+Interfaz de usuario->Interfaz del sistema: Conseguir información detallada del objeto
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar objeto en detalle
+
+
+RA->Interfaz de usuario: Editar Objeto
+
+Interfaz de usuario->Interfaz del sistema: Editar Objeto
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario-->RA: 

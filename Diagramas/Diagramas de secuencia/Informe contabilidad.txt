@@ -1,0 +1,18 @@
+title Generar informe de contabilidad
+
+RA->Interfaz de usuario: Ver el almaceces
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los almacenes
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar almacenes
+
+RA->Interfaz de usuario: Solicitar Informe de Contabilidad
+
+Interfaz de usuario->Interfaz del sistema:  Generar Informe de Contabilidad
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar Informe 
+

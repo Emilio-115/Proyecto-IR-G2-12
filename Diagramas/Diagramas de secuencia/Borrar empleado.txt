@@ -1,0 +1,18 @@
+title Borrar Empleado
+
+
+RA->Interfaz de usuario: Ver el empleados
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los empleados
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar emplados
+
+RA->Interfaz de usuario: Añadir empleado 
+
+Interfaz de usuario->RA: Solicitar datos del emplado
+
+RA-> Interfaz de usuario: Seleccionar empleado
+
+Interfaz de usuario -> Interfaz del sistema: Borrar empleado

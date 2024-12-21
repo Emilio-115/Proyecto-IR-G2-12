@@ -1,0 +1,27 @@
+title Consulta de una operación del historial
+
+
+RA->Interfaz de usuario: Ver el almacén
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar inventario del almacén
+
+RA->Interfaz de usuario: Ver historial 
+
+Interfaz de usuario->Interfaz del sistema: Conseguir historial de objetos del almacen
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar entradas en el historial
+
+RA-> Interfaz de usuario: Selecciona una entrada del historial
+
+Interfaz de usuario-> Interfaz del sistema: Consigue los datos de la entrada en el historial
+
+Interfaz del sistema --> Interfaz de usuario:
+
+Interfaz de usuario-> RA: Mostrar información de la entrada en el historial    
+

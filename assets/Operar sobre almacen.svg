@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg baseProfile="tiny" height="402" version="1.2" viewBox="0 0 698 402" width="698" xmlns="http://www.w3.org/2000/svg">
+  <text fill="black" font-family="Arial Unicode MS" font-size="20" font-weight="bold" x="249.20247395833331" y="30.317708333333144">
+    Operar sobre almacen  </text>
+  <path d="M-509,-238.32291666666674 L-509,0" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.177083333333258" y="78.71354166666653">
+    RA  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="41" x="15.5" y="331.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="26.177083333333258" y="353.765625">
+    RA  </text>
+  <path d="M-299,-238.3229166666668 L-299,0" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="133" x="179.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="190.63151041666663" y="78.71354166666647">
+    Interfaz de usuario  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="133" x="179.5" y="331.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="190.63151041666663" y="353.765625">
+    Interfaz de usuario  </text>
+  <path d="M69,-238.32291666666686 L69,0" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="138" x="544.5" y="56.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="555.6067708333334" y="78.71354166666642">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="37" stroke="black" stroke-width="1" width="138" x="544.5" y="331.5"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="555.6067708333334" y="353.765625">
+    Interfaz del sistema  </text>
+  <rect fill="white" height="15.333333333333343" width="88.93229166666669" x="96.177734375" y="106.5104166666666"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="96.177734375" y="119.84374999999993">
+    Ver el almacén  </text>
+  <path d="M-508.56184895833337,-206 L-299.15039062500006,-206" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-300,-206 L-300,-206 L-308,-214 L-308,-206 L-308,-198 L-300,-206" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333343" width="339.453125" x="259.90299479166663" y="138.7083333333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="259.90299479166663" y="152.04166666666663">
+    Conseguir lista con los objetos del inventario del almacén  </text>
+  <path d="M-298.15039062500006,-174 L68.40950520833326,-174" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M68,-174 L68,-174 L60,-182 L60,-174 L60,-166 L68,-174" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333343" width="0" x="429.62955729166663" y="170.90624999999997"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="429.62955729166663" y="184.23958333333331"/>
+  <path d="M-298.15039062500006,-153 L68.40950520833326,-153" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-298,-153 L-298,-153 L-290,-161 L-290,-153 L-290,-145 L-298,-153" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333314" width="182.3046875" x="49.49153645833326" y="192.23958333333331"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="49.49153645833326" y="205.57291666666666">
+    Mostrar inventario del almacén  </text>
+  <path d="M-508.56184895833337,-120 L-299.15039062500006,-120" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-508,-120 L-508,-120 L-500,-128 L-500,-120 L-500,-112 L-508,-120" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333343" width="146.73828125" x="67.27473958333326" y="224.43749999999997"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="67.27473958333326" y="237.77083333333331">
+    Operar sobre el almacen  </text>
+  <path d="M-508.56184895833337,-88 L-299.15039062500006,-88" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-300,-88 L-300,-88 L-308,-96 L-308,-88 L-308,-80 L-300,-88" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333371" width="240.89192708333326" x="309.18359375" y="256.63541666666663"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="309.18359375" y="269.96874999999994">
+    Se realiza la operación de en el almacne  </text>
+  <path d="M-298.15039062500006,-56 L68.40950520833326,-56" fill="none" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M68,-56 L68,-56 L60,-64 L60,-56 L60,-48 L68,-56" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333371" width="0" x="429.62955729166663" y="288.8333333333333"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="429.62955729166663" y="302.16666666666663"/>
+  <path d="M-298.15039062500006,-35 L68.40950520833326,-35" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-298,-35 L-298,-35 L-290,-43 L-290,-35 L-290,-27 L-298,-35" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <rect fill="white" height="15.333333333333314" width="0" x="140.64388020833331" y="310.1666666666667"/>
+  <text fill="black" font-family="Arial Unicode MS" font-size="13.333333333333334" x="140.64388020833331" y="323.5"/>
+  <path d="M-508.56184895833337,-13 L-299.150390625,-13" fill="none" stroke="black" stroke-dasharray="5,3" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <path d="M-508,-13 L-508,-13 L-500,-21 L-500,-13 L-500,-5 L-508,-13" fill="black" stroke="black" stroke-width="1" transform="translate(544.5 331.5)"/>
+  <text fill="black" font-family="Arial" font-size="14" x="479.533203125" y="392.31770833333314">
+    www.websequencediagrams.com  </text>
+</svg>

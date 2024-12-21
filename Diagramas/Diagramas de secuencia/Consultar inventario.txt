@@ -1,0 +1,9 @@
+title Consultar inventario
+
+RA->Interfaz de usuario: Ver el almacén
+
+Interfaz de usuario->Interfaz del sistema: Conseguir lista con los objetos del inventario del almacén
+
+Interfaz del sistema -->Interfaz de usuario:
+
+Interfaz de usuario->RA: Mostrar inventario del almacén
