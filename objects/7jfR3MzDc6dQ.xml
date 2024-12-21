@@ -10,7 +10,12 @@
     <markdownProperty name="description" category="detail"><![CDATA[Aqui se introduce toda la información relativa al prestamo del objeto.]]></markdownProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Prestar Objeto.png]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="4THtnR7JVquk" traceType=":Proteus-dependency"/>
+      <trace target="3ybqSsq7d3Zo" traceType=":Proteus-dependency"/>
+      <trace target="4E6JN3N8t2W6" traceType=":Proteus-dependency"/>
+      <trace target="5rVGdqCdnVsd" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

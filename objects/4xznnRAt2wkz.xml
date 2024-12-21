@@ -10,7 +10,12 @@
     <markdownProperty name="description" category="detail"><![CDATA[Pestaña en la que se ve la lista de almacenes, la lista de objetos y el historial de operaciones del almacén.]]></markdownProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Almacenes Principal.png]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="7KaHRqGDjKtM" traceType=":Proteus-dependency"/>
+      <trace target="5vTUzAbkY6Em" traceType=":Proteus-dependency"/>
+      <trace target="4RHv29rr3eRX" traceType=":Proteus-dependency"/>
+      <trace target="5rVGdqCdnVsd" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
